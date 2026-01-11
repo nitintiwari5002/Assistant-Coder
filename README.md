@@ -112,4 +112,4 @@ This project is licensed under the MIT License.
 
 ### **❤️ Credits**
 
-Built with passion for Yoga enthusiasts.
+Built with passion for coder enthusiasts.
