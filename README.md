@@ -37,7 +37,7 @@
 | Component | Technology |
 |----------|------------|
 | Frontend | Streamlit |
-| Backend | Python |
+| Backend | Streamlit |
 | AI Model | Ollama |
 
 ---
