@@ -15,7 +15,7 @@ You are a Technical coding expert. For the '{lang}','{topic}', provided, give a 
 Keep response concise, accurate, and safe. Use markdown.
 """
     response = ollama.chat(
-        model='phi3:mini',
+        model='Qwen2.5-Coder',
         messages=[{'role': 'user', 'content': prompt}],
         stream=False
     )
